@@ -1212,7 +1212,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/ShantanuKudva">
                     <img src="https://avatars.githubusercontent.com/u/98833827?v=4" width="100px;" alt="Shantanu Kudva"/>
                     <br />
-                    <sub><b>Aditya Mishra</b></sub>
+                    <sub><b>Shantanu Kudva</b></sub>
                 </a>
             </td>
         </tr>
